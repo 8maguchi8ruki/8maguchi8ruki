@@ -11,7 +11,7 @@
 <p>👇現在開発中のWeb記事読み上げアプリです。</p>
 <div>
 <img src="https://www.feed-listener.com/static/img/title.png" style="width:200px;　border:2px solid #ccc;">
-https://www.feed-listener.com                                                                                                        a
+<a>https://www.feed-listener.com</a>                                                                                                        a
 </div>
 
                                                                                                           
