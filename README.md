@@ -11,7 +11,7 @@
 
 <div>
  <a href="https://www.feed-listener.com"">
-  <img src="https://www.feed-listener.com/static/img/title.png" style="width:150px;　border:2px solid #ccc;">
+  <img src="https://www.feed-listener.com/static/img/title.png" style="width:200px;　border:2px solid #ccc;">
  </a>
 </div>
 
@@ -23,7 +23,7 @@
                                                                                                           
 <div>
  <a href="#">
-  <img src="https://www.feed-listener.com/static/img/yamacode.png" style="width:150px;">
+  <img src="https://www.feed-listener.com/static/img/yamacode.png" style="width:200px;">
  </a>
 </div>
                                                                                                            
