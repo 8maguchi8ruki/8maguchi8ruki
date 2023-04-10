@@ -1,6 +1,6 @@
 Haruki Yamaguchi / 山口　遥己
 
-👇現在こちらのアプリを開発しています！
+👇現在はWeb記事読み上げアプリを開発しています！
 
 https://www.feed-listener.com
 
