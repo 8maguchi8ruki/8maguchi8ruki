@@ -9,7 +9,7 @@
 )](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
-<h2>👇現在Web記事読み上げアプリを開発しています！</h2>
+<h3>👇現在Web記事読み上げアプリを開発しています！</h3>
 
 <div>
  <a href="https://www.feed-listener.com"">
