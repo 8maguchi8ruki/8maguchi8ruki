@@ -12,7 +12,7 @@
 <img src="https://www.feed-listener.com/static/img/title.png" style="width:200px;　border:2px solid #ccc;">
 
 <div>
-https://www.feed-listener.com                                                                                                     a
+https://www.feed-listener.com                                                                                                     
 </div>
 
                                                                                                           
