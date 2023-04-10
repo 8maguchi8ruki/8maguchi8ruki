@@ -23,7 +23,7 @@
                                                                                                           
 <div>
  <a href="#">
-  <img src="https://www.feed-listener.com/static/img/yamacode2.png" style="width:150px;">
+  <img src="https://www.feed-listener.com/static/img/yamacode.png" style="width:150px;">
  </a>
 </div>
                                                                                                            
