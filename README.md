@@ -17,7 +17,7 @@
 
                                                                                                           
 <h3>ブログ運営</h3>
-  <img src="https://www.feed-listener.com/static/img/title.png" style="width:150px;　border:2px solid #ccc;">                                                                                                          
+                                                                                                           
 <p>yamacodeという名前で、主にガジェットの紹介やIT関連記事のブログを運営しておりました。</p>                                                                                 <p>＊サーバーの契約更新忘れで現在はデータがなくなってしまいました😓</p>
 
                                                                                                           
