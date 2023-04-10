@@ -3,7 +3,7 @@
 <div style="display:flex;">
   <p>現在はWeb記事読み上げアプリを開発しています！</p>
   <a href="https://www.feed-listener.com">
-    <img src="https://www.feed-listener.com/static/img/sound-wave.png" alt="" style="width:100px; hight:100px; display:block;">
+    <img src="https://www.feed-listener.com/static/img/sound-wave.png" alt="" style="width:100px; hight:100px;">
   </a>
 </div>
 
