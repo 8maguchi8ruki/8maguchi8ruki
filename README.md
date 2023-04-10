@@ -1,9 +1,12 @@
 <h1>Haruki Yamaguchi / 山口　遥己</h1>
 
 👇現在はWeb記事読み上げアプリを開発しています！
-
-<img src="https://www.feed-listener.com/static/img/sound-wave.png" alt="" style="width:150px; hight:150px;">
-https://www.feed-listener.com
+<div>
+  <a src="https://www.feed-listener.com" style="display:flex;">
+    <img src="https://www.feed-listener.com/static/img/sound-wave.png" alt="" style="width:150px; hight:150px;">
+    <h2>Feed Listener</h2>
+  </a>
+</div>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8maguchi8ruki&layout=compact&show_icons=true&theme=onedark" />
