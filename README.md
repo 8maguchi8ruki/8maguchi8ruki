@@ -3,7 +3,7 @@
 <p aline="left">
   <a href="https://www.feed-listener.com">
     <img src="https://www.feed-listener.com/static/img/sound-wave.png" alt="" style="width:100px; hight:80px;">
-    <img src="https://www.feed-listener.com/static/img/title.png" style="width:200px;">
+    <img src="https://www.feed-listener.com/static/img/title.png" style="width:300px;">
   </a>
 </p>
 
