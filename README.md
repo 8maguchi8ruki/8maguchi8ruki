@@ -11,23 +11,23 @@
 
 <div>
  <a href="https://www.feed-listener.com"">
-  <img src="https://www.feed-listener.com/static/img/title.png" style="width:150px;　border:2px solid #ccc;">
+  <img src="https://www.feed-listener.com/static/img/title.png" style="width:200px;　border:2px solid #ccc;">
  </a>
 </div>
 
                                                                                                           
 <h3>ブログ運営</h3>
                                                                                                            
-<p>yamacodeという名前で、主にガジェットの紹介やIT関連記事のブログを運営しておりました。</p>                                                                                 <p>＊サーバーの契約更新忘れで現在はデータがなくなってしまいました😓</p>
+
 
                                                                                                           
 <div>
  <a href="#">
-  <img src="https://www.feed-listener.com/static/img/yamacode.png" style="width:300px;">
+  <img src="https://www.feed-listener.com/static/img/yamacode.png" style="width:200px;">
  </a>
 </div>
                                                                                                            
-                                                                                                           
+<p>yamacodeという名前で、主にガジェットの紹介やIT関連記事のブログを運営しておりました。</p>                                                                                 <p>＊サーバーの契約更新忘れで現在はデータがなくなってしまいました😓</p>                                                                                                           
 
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=8maguchi8ruki&theme=onedark&column=7
