@@ -3,10 +3,10 @@
 <div aline="left">
   <a href="https://www.feed-listener.com">
     <img src="https://www.feed-listener.com/static/img/sound-wave.png" alt="" style="width:100px; hight:100px;">
-    <img src="[https://www.feed-listener.com/static/img/title.png](https://github.com/8maguchi8ruki/8maguchi8ruki/issues/1#issue-1661303791)">
+    <img src="https://www.feed-listener.com/static/img/title.png">
   </a>
 </div>
-https://github.com/8maguchi8ruki/8maguchi8ruki/issues/1#issue-1661303791
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8maguchi8ruki&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=8maguchi8ruki&theme=onedark&show_icons=ture" />
