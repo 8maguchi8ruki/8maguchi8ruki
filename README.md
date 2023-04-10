@@ -2,7 +2,7 @@
 
 👇現在はWeb記事読み上げアプリを開発しています！
 
-<img src="https://www.feed-listener.com/img/sound-wave.png" alt="">
+<img src="https://www.feed-listener.com/static/img/sound-wave.png" alt="">
 https://www.feed-listener.com
 
 <p align="left"> 
