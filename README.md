@@ -22,7 +22,8 @@ https://www.feed-listener.com
 <p>＊サーバーの契約更新忘れで現在はデータがなくなってしまいました😓　新ブログ検討中</p>
                                                                                       
 <p>👇このような記事を書いておりました。</p> 
- https://www.haruki-yamaguchi.info/blog
+ https://www.haruki-yamaguchi.info/blog.html
+
                                                                                       
                                                                                        
 <!-- 
