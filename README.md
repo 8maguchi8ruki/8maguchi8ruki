@@ -1,7 +1,4 @@
-👇現在開発中のWeb記事読み上げアプリ
-
-https://www.feed-listener.com
-
+山口　遥己 / haruki yamaguchi
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8maguchi8ruki&layout=compact&show_icons=true&theme=onedark" />
