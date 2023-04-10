@@ -16,8 +16,7 @@
 </div>
 
                                                                                                           
-<h3>ブログ運営</h3>
-                                                                                                        
+<h3>ブログ運営</h3>                                                                                            
 <div>
  <a href="#">
   <img src="https://www.feed-listener.com/static/img/yamacode.png" style="width:200px;">
