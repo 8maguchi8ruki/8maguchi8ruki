@@ -3,7 +3,7 @@
 👇現在はWeb記事読み上げアプリを開発しています！
 <div>
   <a src="https://www.feed-listener.com" style="display:flex;">
-    <img src="https://www.feed-listener.com/static/img/sound-wave.png" alt="" style="width:150px; hight:150px;">
+    <img src="https://www.feed-listener.com/static/img/sound-wave.png" alt="" style="width:200px; hight:200px; display:block;">
     <h2>Feed Listener</h2>
   </a>
 </div>
