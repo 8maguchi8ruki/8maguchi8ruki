@@ -1,7 +1,7 @@
 <h1>Haruki Yamaguchi / 山口　遥己</h1>
 
 👇現在はWeb記事読み上げアプリを開発しています！
-<div>
+<div style="display:flex;">
   <a href="https://www.feed-listener.com">
     <img src="https://www.feed-listener.com/static/img/sound-wave.png" alt="" style="width:200px; hight:200px; display:block;">
   </a>
