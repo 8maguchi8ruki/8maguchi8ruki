@@ -1,5 +1,7 @@
 Haruki Yamaguchi / 山口　遥己
-現在こちらのアプリを開発しています！
+
+👇現在こちらのアプリを開発しています！
+
 https://www.feed-listener.com
 
 <p align="left"> 
