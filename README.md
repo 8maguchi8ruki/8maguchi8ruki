@@ -12,7 +12,6 @@
 現在Web記事読み上げアプリを開発しています！
 <div>
  <a href="https://www.feed-listener.com"">
-  <img src="https://www.feed-listener.com/static/img/sound-wave.png" alt="" style="width:80px; hight:80px;">
-  <img src="https://www.feed-listener.com/static/img/title.png" style="width:250px; margin-left:-250px;">
+  <img src="https://www.feed-listener.com/static/img/title.png" style="width:250px;">
  </a>
 </div>
