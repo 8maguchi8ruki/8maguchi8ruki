@@ -9,9 +9,10 @@
 
 <h3>Webアプリ開発</h3>
 <p>👇現在開発中のWeb記事読み上げアプリです。</p>
-<div>
 <img src="https://www.feed-listener.com/static/img/title.png" style="width:200px;　border:2px solid #ccc;">
-<a>https://www.feed-listener.com</a>                                                                                                        a
+
+<div>
+https://www.feed-listener.com                                                                                                     a
 </div>
 
                                                                                                           
