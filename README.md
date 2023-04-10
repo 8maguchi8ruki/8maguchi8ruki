@@ -10,7 +10,7 @@
 
                                                                                                            
                                                                                                           
-<br>                                                                                                        
+<hr>                                                                                                        
                                                                                                            
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8maguchi8ruki&layout=compact&show_icons=true&theme=onedark" />
