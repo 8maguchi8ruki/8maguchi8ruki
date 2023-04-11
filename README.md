@@ -9,6 +9,7 @@
 
 <h3>Webアプリ開発</h3>
 <p>👇現在開発中のWeb記事読み上げアプリです。
+  
 This is an app that reads Web articles with voice. If you wanna listen articles instead of reading, It's gonna be good app for you!</p>
 
 <a href="https://www.feed-listener.com ">
@@ -34,6 +35,7 @@ server. so now, These all my blog data is gone🥲  (I should've checked it…)<
 
                                                                                       
 <p>👇このような記事を書いておりました。
+  
 👇Anyway, here it is blog examples that I was writing about.</p>
 
  https://www.haruki-yamaguchi.info/blog.html
