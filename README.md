@@ -20,13 +20,10 @@ https://www.feed-listener.com
 </div>
 
 <h4>👇DEMO動画</h4>
-<video src="https://user-images.githubusercontent.com/77283970/231117144-918cef1b-461b-4094-a32c-ad48eb353f68.mp4
-">
-
-
-
+<video src="https://user-images.githubusercontent.com/77283970/231117144-918cef1b-461b-4094-a32c-ad48eb353f68.mp4">
+  
 <hr>
-                                                                                                          
+                                                                                                        
 <h3>ブログ運営</h3>   
 <img src="https://www.feed-listener.com/static/img/yamacode.png" style="width:200px;">                                                                                                        
 <p>yamacodeという名前で、主にガジェットの紹介やIT関連記事のブログを運営しておりました。</p>
