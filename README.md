@@ -19,8 +19,6 @@
 https://www.feed-listener.com                                                                                                     
 </div>
 
-https://github.com/8maguchi8ruki/8maguchi8ruki/issues/2#issue-1662076289
-
 
 https://user-images.githubusercontent.com/77283970/231114583-6e2ca674-e504-4377-b98c-9876bbf5b98e.mp4
 
