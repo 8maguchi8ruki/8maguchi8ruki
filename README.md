@@ -19,6 +19,8 @@
 https://www.feed-listener.com                                                                                                     
 </div>
 
+https://github.com/8maguchi8ruki/8maguchi8ruki/issues/2#issue-1662076289
+
 <hr>
                                                                                                           
 <h3>ブログ運営</h3>   
