@@ -21,18 +21,16 @@ https://www.feed-listener.com
 <h3>ブログ運営</h3>                                                                                            
 <img src="https://www.feed-listener.com/static/img/yamacode.png" style="width:200px;">                                                                                                        
 <p>yamacodeという名前で、主にガジェットの紹介やIT関連記事のブログを運営しておりました。</p>
-<p>＊サーバーの契約更新忘れで現在はデータがなくなってしまいました😓　新ブログ検討中</p>
+<p>＊サーバーの契約更新忘れで現在はデータがなくなってしまいました😓　新ブログ検討中</p>p
+<p>I used to write a blog about gadget and tips of tech. but I fogot to recontract my  
+server. so now, These all my blog data is gone🥲  (I should've checked it…)</p>
+
                                                                                       
 <p>👇このような記事を書いておりました。</p> 
+<p>👇Anyway, here it is blog examples that I was writing about.</p>
+
  https://www.haruki-yamaguchi.info/blog.html
  
-
-I used to write a blog about gadget and tips of tech. but I fogot to recontract my  
-server. so now, These all my blog data is gone🥲  (I should've checked it…)
-
-👇Anyway, here it is blog examples that I was writing about.
-
-https://www.haruki-yamaguchi.info/blog.html 
 <hr>
 
 
