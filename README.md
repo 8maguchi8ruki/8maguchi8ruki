@@ -20,7 +20,7 @@ https://www.feed-listener.com
 </div>
 
 <h4>👇DEMO動画</h4>
-<video src="https://user-images.githubusercontent.com/77283970/231117144-918cef1b-461b-4094-a32c-ad48eb353f68.mp4">
+<video src="https://user-images.githubusercontent.com/77283970/231117144-918cef1b-461b-4094-a32c-ad48eb353f68.mp4"></video>
   
 <hr>
                                                                                                         
