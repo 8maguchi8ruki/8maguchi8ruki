@@ -25,11 +25,12 @@ https://www.feed-listener.com
                                                                                       
 <p>👇このような記事を書いておりました。</p> 
  https://www.haruki-yamaguchi.info/blog.html
+ 
 
 I used to write a blog about gadget and tips of tech. but I fogot to recontract my  
 server. so now, These all my blog data is gone🥲  (I should've checked it…)
 
-Anyway, here it is blog examples that I was writing about.
+👇Anyway, here it is blog examples that I was writing about.
 
 https://www.haruki-yamaguchi.info/blog.html 
 <hr>
