@@ -1,4 +1,4 @@
-<h1>Haruki Yamaguchi / 山口　遥己</h1>
+<h1>Haruki Yamaguchi / 山口遥己</h1>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8maguchi8ruki&layout=compact&show_icons=true&theme=onedark" />
