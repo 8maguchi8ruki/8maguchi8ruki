@@ -8,13 +8,11 @@
 <hr> 
 
 <h3>Webアプリ開発</h3>
-<p>👇現在開発中のWeb記事読み上げアプリです。</p>
-  
+<p>現在開発中のWeb記事読み上げアプリです。</p>
 <p>This is an app that reads Web articles with voice. If you wanna listen articles instead of reading, It's gonna be good app for you!</p>
 
-<a href="https://www.feed-listener.com ">
+<p>👇詳しくはこちらから</p>
 <img src="https://www.feed-listener.com/static/img/title.png" style="width:200px;　border:2px solid #ccc;">
-</a>
 
 <div>
 https://www.feed-listener.com                                                                                                     
