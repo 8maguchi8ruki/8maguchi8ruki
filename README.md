@@ -12,10 +12,10 @@
 <p>This is an app that reads Web articles with voice. If you wanna listen articles instead of reading, It's gonna be good app for you!</p>
 
 <p>👇詳しくはこちらから</p>
+<a href="https://github.com/8maguchi8ruki/FeedListener">
 <img src="https://www.feed-listener.com/static/img/title.png" style="width:200px;　border:2px solid #ccc;">
-
-<div>
-https://www.feed-listener.com                                                                                                     
+</a>
+<div>                                                                                                   
 </div>
 
 <h4>👇DEMO動画</h4>
