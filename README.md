@@ -16,7 +16,7 @@
 <a href="https://github.com/8maguchi8ruki/FeedListener">
 <img src="https://www.feed-listener.com/static/img/title.png" style="width:200px;　border:2px solid #ccc;">
  
-
+<hr>
                                                                                                         
 <h3>ブログ運営</h3>   
 <img src="https://www.feed-listener.com/static/img/yamacode.png" style="width:200px;">                                                                                                        
