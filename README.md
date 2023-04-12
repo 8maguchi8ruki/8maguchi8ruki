@@ -16,10 +16,7 @@
 <a href="https://github.com/8maguchi8ruki/FeedListener">
 <img src="https://www.feed-listener.com/static/img/title.png" style="width:200px;　border:2px solid #ccc;">
  
- <h4>👇DEMO動画</h4>
-<video src="https://user-images.githubusercontent.com/77283970/231119765-396133cf-a862-40cc-a01f-cdc6210db31f.mp4"></video>
-</div>
-  
+
                                                                                                         
 <h3>ブログ運営</h3>   
 <img src="https://www.feed-listener.com/static/img/yamacode.png" style="width:200px;">                                                                                                        
