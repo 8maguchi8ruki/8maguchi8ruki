@@ -17,9 +17,9 @@
 <img src="https://www.feed-listener.com/static/img/title.png" style="width:200px;　border:2px solid #ccc;">
  
 <hr>
-                                                                                                        
+
 <h3>ブログ運営</h3>   
-<img src="https://www.feed-listener.com/static/img/yamacode.png" style="width:200px;">                                                                                                        
+<img src="https://user-images.githubusercontent.com/77283970/231370539-748091a5-47a4-41e0-8a98-27449bffecce.png" style="width:200px;">                                                                                                        
 <p>yamacodeという名前で、主にガジェットの紹介やIT関連記事のブログを運営しておりました。</p>
 <p>＊サーバーの契約更新忘れで現在はデータがなくなってしまいました。。　新ブログ検討中</p>
 
