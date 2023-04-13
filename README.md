@@ -25,7 +25,7 @@
 <p>＊サーバーの契約更新忘れで現在はデータがなくなってしまいました。。　新ブログ検討中</p>
 
 <p>I used to write a blog about gadget and tips of tech. but I fogot to recontract my  
-server. so now, These all my blog data is gone🥲  (I should've checked it…)</p>
+server. so now, These all my blog data is gone...  (I should've checked it…)</p>
 
                                                                                       
 <p>👇このような記事を書いておりました。</p>
