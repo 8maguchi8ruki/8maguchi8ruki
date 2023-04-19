@@ -42,6 +42,8 @@ server. so now, These all my blog data is gone...  (I should've checked it…)</
 <a href="https://twitter.com/yamacode_tw?t=ZjEMfqigph-E31KbsY0DeA&s=09">@yamacode_tw</a>
 <hr> -->
 
+ <hr>
+  
 <h3>取得資格</h3>
  <p>基本情報技術者</p>
  <p>ITパスポート</p>
