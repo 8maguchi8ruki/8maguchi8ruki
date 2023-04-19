@@ -34,9 +34,9 @@ server. so now, These all my blog data is gone...  (I should've checked it…)</
 
  https://www.haruki-yamaguchi.info/blog.html
 
-<p>ブログを運営していたときのTwitterアカウントです</p>
+<!-- <p>ブログを運営していたときのTwitterアカウントです</p>
 <a href="https://twitter.com/yamacode_tw?t=ZjEMfqigph-E31KbsY0DeA&s=09">@yamacode_tw</a>
-<hr>
+<hr> -->
 
 
                                                                                       
