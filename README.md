@@ -21,7 +21,7 @@
 <img src="https://user-images.githubusercontent.com/77283970/231370865-4973e64a-e83d-4284-bca3-51baa4fead0c.png" style="width:200px;　border:2px solid #ccc;">
  
 <h4>学校での制作物</h4>
-  <a href="https://github.com/8maguchi8ruki/shortcut-app"></a>
+  <a href="https://github.com/8maguchi8ruki/shortcut-app">seleniumを用いた自動化アプリ</a>
 <hr>
 
 <h3>ブログ運営</h3>   
