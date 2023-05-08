@@ -12,8 +12,8 @@
 
 <h4>Feed Listener/フィードリスナー </h4>
 <p>現在開発中のWeb記事読み上げアプリです。</p>
-<p>This is an app that reads Web articles with voice. If you wanna listen articles instead of reading, It's gonna be good app for you!</p>
-
+<!-- <p>This is an app that reads Web articles with voice. If you wanna listen articles instead of reading, It's gonna be good app for you!</p>
+ -->
 <p>👇詳しくはこちらから</p>
 <p>👇Click here for details.</p>
 
@@ -28,8 +28,8 @@
 <img src="https://user-images.githubusercontent.com/77283970/231370539-748091a5-47a4-41e0-8a98-27449bffecce.png" style="width:200px;">                                                                                                        
 <p>yamacodeという名前で、主にガジェットの紹介やIT関連記事のブログを運営しておりました。＊サーバーの契約更新忘れで現在はデータがなくなってしまいました。。　新ブログ検討中。</p>
 
-<p>I used to write a blog about gadget and tips of tech. but I fogot to recontract my  
-server. so now, These all my blog data is gone...  (I should've checked it…)</p>
+<!-- <p>I used to write a blog about gadget and tips of tech. but I fogot to recontract my  
+server. so now, These all my blog data is gone...  (I should've checked it…)</p> -->
 
                                                                                       
 <p>👇このような記事を書いておりました。</p>
