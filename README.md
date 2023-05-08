@@ -15,8 +15,8 @@
 <!-- <p>This is an app that reads Web articles with voice. If you wanna listen articles instead of reading, It's gonna be good app for you!</p>
  -->
 <p>👇詳しくはこちらから</p>
-<p>👇Click here for details.</p>
-
+<!-- <p>👇Click here for details.</p>
+ -->
 <a href="https://github.com/8maguchi8ruki/FeedListener">
 <img src="https://user-images.githubusercontent.com/77283970/231370865-4973e64a-e83d-4284-bca3-51baa4fead0c.png" style="width:200px;　border:2px solid #ccc;">
  
@@ -34,8 +34,8 @@ server. so now, These all my blog data is gone...  (I should've checked it…)</
                                                                                       
 <p>👇このような記事を書いておりました。</p>
   
-<p>👇Anyway, here it is blog examples that I was writing about.</p>
-
+<!-- <p>👇Anyway, here it is blog examples that I was writing about.</p>
+ -->
  https://www.haruki-yamaguchi.info/blog.html
 
 <!-- <p>ブログを運営していたときのTwitterアカウントです</p>
