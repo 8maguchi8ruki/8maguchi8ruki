@@ -8,7 +8,7 @@
 <hr> 
 
 
-<h3>Webアプリ開発</h3>
+<h3>APP</h3>
 
 <h4>Feed Listener/フィードリスナー </h4>
 <p>現在開発中のWeb記事読み上げアプリです。</p>
@@ -24,7 +24,7 @@
   <a href="https://github.com/8maguchi8ruki/shortcut-app">seleniumを用いためんどくさい作業を自動化するアプリです。</a>
 <hr>
 
-<h3>ブログ運営</h3>   
+<h3>BLOG</h3>   
 <img src="https://user-images.githubusercontent.com/77283970/231370539-748091a5-47a4-41e0-8a98-27449bffecce.png" style="width:200px;">                                                                                                        
 <p>主にガジェットの紹介やIT関連記事のブログを運営しておりました。＊サーバーの契約更新忘れで現在はデータがなくなってしまいました。。</p>
 
