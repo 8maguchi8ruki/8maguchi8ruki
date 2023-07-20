@@ -43,11 +43,7 @@ server. so now, These all my blog data is gone...  (I should've checked it…)</
 <hr> -->
 
  <hr>
-  
-<h3>取得資格</h3>
- <p>基本情報技術者</p>
- <p>ITパスポート</p>
-  <p>J検1級など</p>
+
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=8maguchi8ruki&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy) -->
