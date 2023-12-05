@@ -7,6 +7,7 @@
 
 <hr> 
 
+<h4>音声読み上げアプリ</h4>
 https://github.com/8maguchi8ruki/FeedListener
  
 <h4>ショートカットアプリ</h4>
