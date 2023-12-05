@@ -13,6 +13,7 @@ https://github.com/8maguchi8ruki/FeedListener
 <h4>ショートカットアプリ</h4>
 https://github.com/8maguchi8ruki/shortcut-app
 <h4>ブログ</h4>
+<small>＊閉鎖しました</small>
 https://www.haruki-yamaguchi.info/blog.html
  
  <hr>
