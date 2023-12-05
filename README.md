@@ -12,10 +12,10 @@
  
 <h4>ショートカットアプリ</h4>
   <a href="https://github.com/8maguchi8ruki/shortcut-app">seleniumを用いためんどくさい作業を自動化するアプリです。</a>
-<hr>
-
-
+<h4>ブログ</h4>
  https://www.haruki-yamaguchi.info/blog.html
+ 
+ <hr>
  
 
 
