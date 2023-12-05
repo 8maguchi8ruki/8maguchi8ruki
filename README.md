@@ -8,7 +8,6 @@
 <hr> 
 
 <a href="https://github.com/8maguchi8ruki/FeedListener">
-<img src="https://user-images.githubusercontent.com/77283970/231370865-4973e64a-e83d-4284-bca3-51baa4fead0c.png" style="width:200px;　border:2px solid #ccc;">
  
 <h4>ショートカットアプリ</h4>
   <a href="https://github.com/8maguchi8ruki/shortcut-app">seleniumを用いためんどくさい作業を自動化するアプリです。</a>
